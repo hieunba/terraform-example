@@ -1,1 +1,2 @@
 provider "null" {}
+provider "local" {}
